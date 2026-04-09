@@ -1,5 +1,5 @@
-# robots.txt for rojasreport.com
-# Deploy to: public/robots.txt in the Next.js project
+# robots.txt for hac.rojasreport.com
+# Deploy to: public/robots.txt in the HAC Next.js project
 
 User-agent: *
 Allow: /
@@ -39,7 +39,6 @@ Allow: /
 User-agent: Amazonbot
 Allow: /
 
-# Other AI Crawlers
 User-agent: Bytespider
 Allow: /
 
@@ -49,6 +48,6 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://rojasreport.com/sitemap.xml
+Sitemap: https://hac.rojasreport.com/sitemap.xml
 
-# LLM context: https://rojasreport.com/llms.txt
+# LLM context: https://hac.rojasreport.com/llms.txt

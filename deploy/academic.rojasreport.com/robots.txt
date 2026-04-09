@@ -1,14 +1,12 @@
 # robots.txt for academic.rojasreport.com
-# Deploy to: https://academic.rojasreport.com/robots.txt
+# Deploy to: public/robots.txt in the Next.js project
 
 User-agent: *
 Allow: /
-Disallow: /wp-admin/
-Disallow: /admin/
-Disallow: /private/
-Disallow: /staging/
+Disallow: /_next/
+Disallow: /api/
 
-# AI Search Crawlers — appear in AI search results
+# AI Search Crawlers
 User-agent: Claude-SearchBot
 Allow: /
 
@@ -18,22 +16,27 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-# AI Real-Time Retrieval — cited in live AI conversations
+# AI Real-Time Retrieval
 User-agent: ChatGPT-User
 Allow: /
 
 User-agent: Claude-User
 Allow: /
 
-# AI Training Crawlers — included in model training data
+# AI Training Crawlers
 User-agent: ClaudeBot
 Allow: /
 
 User-agent: GPTBot
 Allow: /
 
-# Google AI
+User-agent: anthropic-ai
+Allow: /
+
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
 Allow: /
 
 # Other AI Crawlers
@@ -47,3 +50,5 @@ User-agent: cohere-ai
 Allow: /
 
 Sitemap: https://academic.rojasreport.com/sitemap.xml
+
+# LLM context: https://academic.rojasreport.com/llms.txt

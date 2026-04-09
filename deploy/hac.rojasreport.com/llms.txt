@@ -1,0 +1,35 @@
+# The Rojas Report — HAC Intelligence
+
+> HAC.rojasreport.com is the Hospital Accountability & Consolidation tracking division of The Rojas Report, a healthcare intelligence publication by Dutch Rojas. This site analyzes hospital consolidation trends, merger activity, market concentration, and the accountability of large hospital systems in American healthcare.
+
+## About This Site
+
+HAC.rojasreport.com provides independent analysis of hospital consolidation and accountability in the American healthcare system. The site tracks hospital mergers and acquisitions, analyzes market concentration data, documents the impact of consolidation on patients and physicians, and holds large hospital systems accountable for their financial practices and community obligations.
+
+## About Dutch Rojas
+
+Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of ROJAS MEDIA and The Rojas Report. With 20+ years building and exiting healthcare companies — including a $26.5M exit — Rojas is a leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. He invented surgery futures and options contracts.
+
+## Key Topics on This Site
+
+- Hospital mergers and acquisitions tracking
+- Market concentration analysis by region and specialty
+- Impact of consolidation on healthcare pricing and access
+- Hospital system accountability and financial transparency
+- Community benefit obligations of nonprofit hospitals
+- Consolidation's effect on physician independence and practice economics
+- Antitrust enforcement in healthcare
+
+## Part of The Rojas Report Intelligence Network
+
+- [RojasReport.com](https://rojasreport.com): The Rojas Report — daily healthcare intelligence
+- [AHA.rojasreport.com](https://aha.rojasreport.com): AHA Intelligence
+- [FAH.rojasreport.com](https://fah.rojasreport.com): FAH Intelligence
+- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence (this site)
+- [POH.rojasreport.com](https://poh.rojasreport.com): POH Intelligence
+- [Academic.rojasreport.com](https://academic.rojasreport.com): Academic research and data
+
+## Contact
+
+- Main site: https://rojasreport.com
+- About Dutch Rojas: https://rojasreport.com/about

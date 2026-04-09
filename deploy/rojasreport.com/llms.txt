@@ -11,6 +11,7 @@ Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a
 - [RojasReport.com](https://rojasreport.com): Main hub — daily healthcare intelligence and analysis
 - [POH.rojasreport.com](https://poh.rojasreport.com): Physician-Owned Hospitals — legislation, advocacy, and outcomes analysis
 - [FAH.rojasreport.com](https://fah.rojasreport.com): Federation of American Hospitals — lobbying, policy, and member hospital tracking
+- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence — hospital accountability, consolidation tracking, and merger analysis
 - [AHA.rojasreport.com](https://aha.rojasreport.com): American Hospital Association — lobbying, policy positions, and influence analysis
 - [Academic.rojasreport.com](https://academic.rojasreport.com): Academic healthcare research — data-driven analysis, CON law studies, and financial research
 
@@ -21,6 +22,7 @@ Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a
 - [Hospital Consolidation](https://rojasreport.com): Tracking nonprofit hospital mergers, acquisitions, market concentration, and the consequences for patients and physicians
 - [AHA Lobbying](https://aha.rojasreport.com): Analysis of American Hospital Association spending, political influence, and opposition to physician-owned hospitals
 - [FAH Lobbying](https://fah.rojasreport.com): Analysis of Federation of American Hospitals activities, for-profit hospital chain advocacy, and policy positions
+- [Hospital Consolidation](https://hac.rojasreport.com): Hospital accountability, consolidation tracking, merger analysis, and market concentration data
 - [Physician Independence](https://rojasreport.com): Advocacy and analysis supporting independent physician practices against hospital consolidation
 - [Surgery Futures & Options](https://academic.rojasreport.com): Financial instruments for healthcare pricing transparency, invented by Dutch Rojas
 - [Healthcare Venture Capital](https://rojasreport.com): PhyCap Fund and the physician-led investment model

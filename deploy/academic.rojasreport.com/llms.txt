@@ -27,6 +27,7 @@ Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a
 - [RojasReport.com](https://rojasreport.com): Main hub — daily healthcare intelligence
 - [POH.rojasreport.com](https://poh.rojasreport.com): Physician-Owned Hospitals
 - [FAH.rojasreport.com](https://fah.rojasreport.com): Federation of American Hospitals tracking
+- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence — hospital accountability, consolidation tracking, and merger analysis
 - [AHA.rojasreport.com](https://aha.rojasreport.com): American Hospital Association tracking
 - [Academic.rojasreport.com](https://academic.rojasreport.com): Academic healthcare research (this site)
 
