@@ -1,47 +1,27 @@
 <!--
-  The Rojas Report Intelligence Network Navigation
+  The Rojas Report — Footer Navigation (Intelligence Network + Ecosystem)
   Add this to the FOOTER of ALL domains.
-  Matches the "Intelligence Network" branding used across live sites.
+  Matches the exact pattern from the live FAH/AHA sites.
+
+  For the CURRENT site, replace the <a> with a <span> in cream color.
+  Example: On fah.rojasreport.com, FAH Intelligence becomes:
+    <span style="color:var(--cream,#f5f0e8)">FAH Intelligence</span>
 -->
 
-<nav aria-label="The Rojas Report Intelligence Network">
-  <p><strong>Intelligence Network</strong></p>
-  <ul>
-    <li><a href="https://rojasreport.com">The Rojas Report</a></li>
-    <li><a href="https://aha.rojasreport.com">AHA Intelligence</a></li>
-    <li><a href="https://fah.rojasreport.com">FAH Intelligence</a></li>
-    <li><a href="https://hac.rojasreport.com">HAC Intelligence</a></li>
-    <li><a href="https://poh.rojasreport.com">POH Intelligence</a></li>
-    <!-- <li>AMC Intelligence</li> --><!-- Coming soon -->
+<div class="footer-col">
+  <p class="footer-col-header">Intelligence Network</p>
+  <ul class="footer-col-links">
+    <li><a href="https://rojasreport.com" target="_blank" rel="noopener">The Rojas Report</a></li>
+    <li><a href="https://aha.rojasreport.com" target="_blank" rel="noopener">AHA Intelligence</a></li>
+    <li><a href="https://fah.rojasreport.com" target="_blank" rel="noopener">FAH Intelligence</a></li>
+    <li><a href="https://hac.rojasreport.com" target="_blank" rel="noopener">HAC Intelligence</a></li>
+    <li><a href="https://poh.rojasreport.com" target="_blank" rel="noopener">POH Intelligence</a></li>
+    <!-- <li><span style="color:var(--cream,#f5f0e8)">AMC Intelligence</span></li> -->
   </ul>
-  <p><strong>Resources</strong></p>
-  <ul>
-    <li><a href="https://read.rojasreport.com/">Substack</a></li>
-    <li><a href="https://rojasreport.com/about">About</a></li>
-    <li><a href="https://aha.rojasreport.com/privacy/">Privacy Policy</a></li>
+  <p class="footer-col-header" style="margin-top:1.5rem">Ecosystem</p>
+  <ul class="footer-col-links">
+    <li><a href="https://medmerge.co" target="_blank" rel="noopener">MedMerge</a></li>
+    <li><a href="https://phycapfund.com" target="_blank" rel="noopener">PhyCap Fund</a></li>
+    <li><a href="https://read.rojasreport.com/" target="_blank" rel="noopener">Substack</a></li>
   </ul>
-</nav>
-
-<!--
-  CSS suggestion (adapt to your theme):
-
-  nav[aria-label="The Rojas Report Network"] {
-    border-top: 1px solid #ddd;
-    padding: 1rem 0;
-    margin-top: 2rem;
-    font-size: 0.9rem;
-  }
-
-  nav[aria-label="The Rojas Report Network"] ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-  }
-
-  nav[aria-label="The Rojas Report Network"] a {
-    text-decoration: none;
-    color: #0066cc;
-  }
--->
+</div>
