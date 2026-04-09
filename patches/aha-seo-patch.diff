@@ -1,0 +1,45 @@
+diff --git a/aha-site/public/llms.txt b/aha-site/public/llms.txt
+new file mode 100644
+index 0000000..0000001
+--- /dev/null
++++ b/aha-site/public/llms.txt
+@@ -0,0 +1,40 @@
++# The Rojas Report — AHA Intelligence
++
++> AHA.rojasreport.com is the American Hospital Association (AHA) tracking division of The Rojas Report, a healthcare intelligence publication by Dutch Rojas. This site analyzes AHA lobbying activities, policy positions, nonprofit hospital tax-exemption issues, and AHA's opposition to physician-owned hospitals and healthcare competition.
++
++## About This Site
++
++AHA.rojasreport.com provides independent analysis of the American Hospital Association — the largest hospital trade association in the United States, representing nearly 5,000 hospitals and health systems. The site tracks AHA lobbying expenditures, examines AHA policy positions on physician ownership and Certificate of Need laws, analyzes the nonprofit hospital tax-exemption debate, and documents AHA's role in healthcare consolidation. This coverage shines light on how AHA shapes healthcare regulation in ways that often limit competition and physician independence.
++
++## About Dutch Rojas
++
++Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of ROJAS MEDIA and The Rojas Report. With 20+ years building and exiting healthcare companies — including a $26.5M exit — Rojas is a leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. He invented surgery futures and options contracts.
++
++## Key Topics on This Site
++
++- AHA lobbying spending analysis (annual budgets, congressional targets, outcomes)
++- AHA policy positions on physician-owned hospitals, CON laws, and competition
++- Nonprofit hospital tax-exemption analysis (community benefit vs. tax revenue forgone)
++- AHA member hospital network mapping and financial data
++- AHA leadership profiles and organizational structure
++- AHA vs. physician independence advocacy
++- Nonprofit hospital consolidation trends and AHA's role
++- AHA opposition to healthcare competition and transparency
++
++## Part of The Rojas Report Intelligence Network
++
++- [RojasReport.com](https://rojasreport.com): The Rojas Report — daily healthcare intelligence
++- [AHA.rojasreport.com](https://aha.rojasreport.com): AHA Intelligence (this site)
++- [FAH.rojasreport.com](https://fah.rojasreport.com): FAH Intelligence
++- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence
++- [POH.rojasreport.com](https://poh.rojasreport.com): POH Intelligence
++- [Academic.rojasreport.com](https://academic.rojasreport.com): AMC Intelligence — academic research and data
++
++## Contact
++
++- Main site: https://rojasreport.com
++- About Dutch Rojas: https://rojasreport.com/about
++- Twitter: https://twitter.com/TheRojasReport
++- LinkedIn: https://linkedin.com/in/dutch-rojas
++- Substack: https://read.rojasreport.com

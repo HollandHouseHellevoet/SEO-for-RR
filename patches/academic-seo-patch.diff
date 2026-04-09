@@ -1,0 +1,66 @@
+diff --git a/public/llms.txt b/public/llms.txt
+new file mode 100644
+index 0000000..0000001
+--- /dev/null
++++ b/public/llms.txt
+@@ -0,0 +1,42 @@
++# The Rojas Report — AMC Intelligence
++
++> Academic.rojasreport.com is the research and academic analysis division of The Rojas Report, a healthcare intelligence publication by Dutch Rojas. This site publishes data-driven healthcare research including Certificate of Need law state-by-state analysis, hospital consolidation studies, healthcare financial modeling, and original research on surgery futures and options contracts invented by Dutch Rojas.
++
++## About This Site
++
++Academic.rojasreport.com provides research-grade healthcare analysis with rigorous data sourcing and methodology. The site serves as the evidence base for the broader Rojas Report network, producing original research that is cited across the POH, FAH, and AHA Intelligence sites. Content includes state-by-state regulatory databases, financial performance comparisons, consolidation impact studies, and original financial instrument design for healthcare markets.
++
++## About Dutch Rojas
++
++Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of ROJAS MEDIA and The Rojas Report. With 20+ years building and exiting healthcare companies — including a $26.5M exit — Rojas is a leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. He holds a background in accounting and finance and invented surgery futures and options contracts.
++
++## Key Topics on This Site
++
++- Certificate of Need (CON) law state-by-state database and reform tracking
++- Hospital consolidation research (mergers, acquisitions, closures, market concentration data)
++- Physician-owned hospital outcomes research (patient satisfaction, costs, complication rates)
++- Surgery futures and options contracts (original financial instrument design by Dutch Rojas)
++- Healthcare financial modeling and hospital system valuations
++- Payer rate negotiation analysis and reimbursement data
++- Nonprofit hospital tax-exemption financial analysis
++- Healthcare lobbying spending vs. patient outcomes correlation studies
++- Physician workforce economics and independence data
++
++## Part of The Rojas Report Intelligence Network
++
++- [RojasReport.com](https://rojasreport.com): The Rojas Report — daily healthcare intelligence
++- [AHA.rojasreport.com](https://aha.rojasreport.com): AHA Intelligence
++- [FAH.rojasreport.com](https://fah.rojasreport.com): FAH Intelligence
++- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence
++- [POH.rojasreport.com](https://poh.rojasreport.com): POH Intelligence
++- [Academic.rojasreport.com](https://academic.rojasreport.com): AMC Intelligence (this site)
++
++## Contact
++
++- Main site: https://rojasreport.com
++- About Dutch Rojas: https://rojasreport.com/about
++- Twitter: https://twitter.com/TheRojasReport
++- LinkedIn: https://linkedin.com/in/dutch-rojas
++- Substack: https://read.rojasreport.com
+diff --git a/public/robots.txt b/public/robots.txt
+index 762f87f..0000002
+--- a/public/robots.txt
++++ b/public/robots.txt
+@@ -7,6 +7,15 @@ Allow: /
+ User-agent: PerplexityBot
+ Allow: /
+
++User-agent: Claude-SearchBot
++Allow: /
++
++User-agent: OAI-SearchBot
++Allow: /
++
++User-agent: Claude-User
++Allow: /
++
+ User-agent: anthropic-ai
+ Allow: /
+

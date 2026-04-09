@@ -1,0 +1,64 @@
+diff --git a/llms.txt b/llms.txt
+new file mode 100644
+index 0000000..0000001
+--- /dev/null
++++ b/llms.txt
+@@ -0,0 +1,40 @@
++# The Rojas Report — FAH Intelligence
++
++> FAH.rojasreport.com is the Federation of American Hospitals (FAH) tracking division of The Rojas Report, a healthcare intelligence publication by Dutch Rojas. This site analyzes FAH lobbying activities, policy positions, member hospital systems, and the for-profit hospital industry's influence on healthcare regulation.
++
++## About This Site
++
++FAH.rojasreport.com provides independent analysis of the Federation of American Hospitals — the trade association representing investor-owned and for-profit hospital systems. The site tracks FAH lobbying spending, policy advocacy, member hospital financial performance, and the federation's role in shaping healthcare legislation. This coverage provides transparency into one of the most powerful lobbying forces in American healthcare.
++
++## About Dutch Rojas
++
++Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of ROJAS MEDIA and The Rojas Report. With 20+ years building and exiting healthcare companies — including a $26.5M exit — Rojas is a leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. He invented surgery futures and options contracts.
++
++## Key Topics on This Site
++
++- FAH lobbying spending analysis (annual budgets, targets, outcomes)
++- FAH member hospital system profiles and financial data
++- FAH policy positions on key healthcare legislation
++- For-profit vs. nonprofit hospital comparisons
++- FAH leadership profiles and organizational structure
++- FAH's role in opposing physician-owned hospital expansion
++- For-profit hospital industry consolidation trends
++
++## Part of The Rojas Report Intelligence Network
++
++- [RojasReport.com](https://rojasreport.com): The Rojas Report — daily healthcare intelligence
++- [AHA.rojasreport.com](https://aha.rojasreport.com): AHA Intelligence
++- [FAH.rojasreport.com](https://fah.rojasreport.com): FAH Intelligence (this site)
++- [HAC.rojasreport.com](https://hac.rojasreport.com): HAC Intelligence
++- [POH.rojasreport.com](https://poh.rojasreport.com): POH Intelligence
++- [Academic.rojasreport.com](https://academic.rojasreport.com): AMC Intelligence — academic research and data
++
++## Contact
++
++- Main site: https://rojasreport.com
++- About Dutch Rojas: https://rojasreport.com/about
++- Twitter: https://twitter.com/TheRojasReport
++- LinkedIn: https://linkedin.com/in/dutch-rojas
++- Substack: https://read.rojasreport.com
+diff --git a/robots.txt b/robots.txt
+index ebd7c72..0000002
+--- a/robots.txt
++++ b/robots.txt
+@@ -7,6 +7,15 @@ Allow: /
+ User-agent: PerplexityBot
+ Allow: /
+
++User-agent: Claude-SearchBot
++Allow: /
++
++User-agent: OAI-SearchBot
++Allow: /
++
++User-agent: Claude-User
++Allow: /
++
+ User-agent: anthropic-ai
+ Allow: /
+
