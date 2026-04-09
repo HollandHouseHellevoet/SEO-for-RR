@@ -1,0 +1,130 @@
+<!--
+  Schema.org JSON-LD Bundle for rojasreport.com
+
+  INSTRUCTIONS:
+  Paste ALL of these <script> tags into the <head> section of your homepage.
+  For article pages, use only the Article and BreadcrumbList schemas (skip WebSite and Organization).
+  For the About page, add the Person schema as well.
+
+  NOTE: Replace image URLs and social profile URLs with actual values before deploying.
+-->
+
+<!-- === PERSON: Dutch Rojas (deploy on About page and author pages) === -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://rojasreport.com/#dutch-rojas",
+  "name": "Dutch Rojas",
+  "url": "https://rojasreport.com/about",
+  "image": "https://rojasreport.com/images/dutch-rojas.jpg",
+  "description": "Healthcare operator, Marine veteran, and founder of MedMerge. Co-founder of PhyCap Fund. Board member of Physician Led Healthcare for America. Founder of ROJAS MEDIA and The Rojas Report. 20+ years building and exiting healthcare companies including a $26.5M exit. Leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. Invented surgery futures and options contracts.",
+  "jobTitle": "Founder & CEO",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "MedMerge",
+      "description": "Physician-focused infrastructure company providing P&C insurance, employee benefits, payroll, retirement planning, and payer rate negotiation for independent physicians"
+    },
+    {
+      "@type": "Organization",
+      "name": "ROJAS MEDIA",
+      "description": "Media company publishing The Rojas Report"
+    }
+  ],
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Physician Led Healthcare for America",
+    "description": "National advocacy organization promoting physician leadership in healthcare"
+  },
+  "knowsAbout": [
+    "Physician-owned hospitals",
+    "Certificate of Need laws",
+    "Nonprofit hospital consolidation",
+    "Physician independence",
+    "Healthcare operations",
+    "Healthcare finance",
+    "Payer rate negotiation",
+    "Surgery futures and options contracts",
+    "Healthcare venture capital",
+    "Employee benefits for physicians"
+  ],
+  "sameAs": [
+    "https://rojasreport.com",
+    "https://poh.rojasreport.com",
+    "https://fah.rojasreport.com",
+    "https://aha.rojasreport.com",
+    "https://academic.rojasreport.com"
+  ]
+}
+</script>
+
+<!-- === ORGANIZATION: The Rojas Report (deploy on homepage) === -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://rojasreport.com/#organization",
+  "name": "The Rojas Report",
+  "alternateName": "ROJAS MEDIA",
+  "url": "https://rojasreport.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://rojasreport.com/images/rojas-report-logo.png"
+  },
+  "description": "Healthcare intelligence publication providing daily analysis on the financial and regulatory structures underlying American healthcare. Founded by Dutch Rojas. Covers physician-owned hospitals, hospital consolidation, Certificate of Need laws, and physician independence.",
+  "founder": {
+    "@type": "Person",
+    "@id": "https://rojasreport.com/#dutch-rojas",
+    "name": "Dutch Rojas"
+  },
+  "publishingPrinciples": "https://rojasreport.com/about",
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "name": "The Rojas Report — Physician-Owned Hospitals",
+      "url": "https://poh.rojasreport.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "The Rojas Report — FAH Watch",
+      "url": "https://fah.rojasreport.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "The Rojas Report — AHA Watch",
+      "url": "https://aha.rojasreport.com"
+    },
+    {
+      "@type": "Organization",
+      "name": "The Rojas Report — Academic",
+      "url": "https://academic.rojasreport.com"
+    }
+  ]
+}
+</script>
+
+<!-- === WEBSITE (deploy on homepage only) === -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://rojasreport.com/#website",
+  "name": "The Rojas Report",
+  "url": "https://rojasreport.com",
+  "description": "Healthcare intelligence publication providing daily analysis on the financial and regulatory structures underlying American healthcare.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://rojasreport.com/#organization"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://rojasreport.com/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "inLanguage": "en-US"
+}
+</script>

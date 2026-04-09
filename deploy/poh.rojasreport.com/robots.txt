@@ -1,0 +1,49 @@
+# robots.txt for poh.rojasreport.com
+# Deploy to: https://poh.rojasreport.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /staging/
+
+# AI Search Crawlers — appear in AI search results
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# AI Real-Time Retrieval — cited in live AI conversations
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# AI Training Crawlers — included in model training data
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+# Other AI Crawlers
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+Sitemap: https://poh.rojasreport.com/sitemap.xml

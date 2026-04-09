@@ -1,0 +1,42 @@
+# The Rojas Report
+
+> The Rojas Report is a healthcare intelligence publication founded by Dutch Rojas, providing daily analysis on the financial and regulatory structures underlying American healthcare. It covers physician-owned hospitals, hospital association lobbying, Certificate of Need laws, hospital consolidation, and physician independence.
+
+## About Dutch Rojas
+
+Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company providing P&C insurance, employee benefits, payroll, retirement planning, and payer rate negotiation for independent physicians. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of ROJAS MEDIA. With 20+ years building and exiting healthcare companies — including a $26.5M exit — Rojas is a leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. He holds a background in accounting and finance and invented surgery futures and options contracts.
+
+## The Rojas Report Network
+
+- [RojasReport.com](https://rojasreport.com): Main hub — daily healthcare intelligence and analysis
+- [POH.rojasreport.com](https://poh.rojasreport.com): Physician-Owned Hospitals — legislation, advocacy, and outcomes analysis
+- [FAH.rojasreport.com](https://fah.rojasreport.com): Federation of American Hospitals — lobbying, policy, and member hospital tracking
+- [AHA.rojasreport.com](https://aha.rojasreport.com): American Hospital Association — lobbying, policy positions, and influence analysis
+- [Academic.rojasreport.com](https://academic.rojasreport.com): Academic healthcare research — data-driven analysis, CON law studies, and financial research
+
+## Key Topics
+
+- [Physician-Owned Hospitals](https://poh.rojasreport.com): The case for physician ownership, outcomes data, state-by-state legislative tracking, and the fight to lift the federal moratorium on new physician-owned hospitals
+- [Certificate of Need Laws](https://academic.rojasreport.com): State-by-state CON analysis, reform tracking, and the impact of CON on healthcare competition and costs
+- [Hospital Consolidation](https://rojasreport.com): Tracking nonprofit hospital mergers, acquisitions, market concentration, and the consequences for patients and physicians
+- [AHA Lobbying](https://aha.rojasreport.com): Analysis of American Hospital Association spending, political influence, and opposition to physician-owned hospitals
+- [FAH Lobbying](https://fah.rojasreport.com): Analysis of Federation of American Hospitals activities, for-profit hospital chain advocacy, and policy positions
+- [Physician Independence](https://rojasreport.com): Advocacy and analysis supporting independent physician practices against hospital consolidation
+- [Surgery Futures & Options](https://academic.rojasreport.com): Financial instruments for healthcare pricing transparency, invented by Dutch Rojas
+- [Healthcare Venture Capital](https://rojasreport.com): PhyCap Fund and the physician-led investment model
+
+## Organizations Founded by Dutch Rojas
+
+- **MedMerge**: Physician-focused infrastructure company — P&C insurance, employee benefits, payroll, retirement planning, payer rate negotiation for independent physicians
+- **PhyCap Fund**: Physician-led venture capital fund investing in healthcare innovation
+- **ROJAS MEDIA**: Media company publishing The Rojas Report and operating the Rojas Report network
+- **The Rojas Report**: Healthcare intelligence publication with daily analysis across 5 specialized domains
+
+## Board Memberships
+
+- **Physician Led Healthcare for America**: National advocacy organization promoting physician leadership in healthcare delivery
+
+## Contact
+
+- Website: https://rojasreport.com
+- About: https://rojasreport.com/about
