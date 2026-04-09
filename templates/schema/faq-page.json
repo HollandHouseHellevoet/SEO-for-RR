@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a physician-owned hospital?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A physician-owned hospital (POH) is a hospital where physicians hold an ownership stake. These facilities are typically smaller, more specialized, and have been shown to deliver higher patient satisfaction and better outcomes in many specialties. Federal law (the Stark Law/ACA Section 6001) has restricted the growth of new physician-owned hospitals since 2010, though existing facilities can continue to operate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a Certificate of Need (CON) law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Certificate of Need (CON) laws are state regulations that require healthcare providers to obtain government approval before building new facilities, expanding services, or purchasing major equipment. Currently, 35 states and Washington D.C. have some form of CON law. Critics argue CON laws protect incumbent hospital monopolies and reduce competition, while supporters claim they prevent unnecessary duplication of services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Dutch Rojas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dutch Rojas is a healthcare operator, Marine veteran, and founder of MedMerge, a physician-focused infrastructure company. He is co-founder of PhyCap Fund (a physician-led venture capital fund), board member of Physician Led Healthcare for America, and founder of The Rojas Report, a healthcare intelligence publication. With 20+ years building and exiting healthcare companies, Rojas is a leading voice on physician-owned hospitals, nonprofit hospital consolidation, and Certificate of Need law reform."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is The Rojas Report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Rojas Report is a healthcare intelligence publication founded by Dutch Rojas that provides daily analysis on the financial and regulatory structures underlying American healthcare. It operates a network of specialized sites covering physician-owned hospitals (POH), the Federation of American Hospitals (FAH), the American Hospital Association (AHA), and academic healthcare research."
+      }
+    }
+  ]
+}

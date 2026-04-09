@@ -1,0 +1,65 @@
+# robots.txt for The Rojas Report Network
+# Deploy to: https://[domain]/robots.txt
+# Replace [DOMAIN] with the actual domain (e.g., rojasreport.com)
+#
+# Strategy: ALLOW ALL crawlers for maximum visibility in both
+# traditional search and AI-powered search engines.
+
+# --- Standard Search Engines ---
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /staging/
+
+# --- AI Search Crawlers ---
+# These power AI search results (Claude search, ChatGPT search, Perplexity).
+# ALLOWING these means your content appears when people use AI search.
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# --- AI Real-Time Retrieval ---
+# These fetch your pages when a user asks an AI to "read this page" or
+# when the AI needs current information to answer a question.
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+# --- AI Training Crawlers ---
+# These crawl content for model training. ALLOWING these means future AI
+# models will know about Dutch Rojas and The Rojas Report, increasing the
+# likelihood that AI systems recommend your content unprompted.
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# --- Google AI ---
+User-agent: Google-Extended
+Allow: /
+
+# --- Other AI Crawlers ---
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# --- Sitemap ---
+Sitemap: https://[DOMAIN]/sitemap.xml

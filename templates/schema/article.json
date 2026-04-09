@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "[ARTICLE TITLE - max 110 characters]",
+  "description": "[META DESCRIPTION - max 160 characters]",
+  "image": {
+    "@type": "ImageObject",
+    "url": "[FEATURED IMAGE URL]",
+    "width": 1200,
+    "height": 630
+  },
+  "datePublished": "[YYYY-MM-DD]",
+  "dateModified": "[YYYY-MM-DD]",
+  "author": {
+    "@type": "Person",
+    "@id": "https://rojasreport.com/#dutch-rojas",
+    "name": "Dutch Rojas",
+    "url": "https://rojasreport.com/about"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://rojasreport.com/#organization",
+    "name": "The Rojas Report",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://rojasreport.com/images/rojas-report-logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "[CANONICAL URL OF THIS PAGE]"
+  },
+  "articleSection": "[CATEGORY: e.g., Physician-Owned Hospitals, Hospital Consolidation, CON Laws]",
+  "keywords": "[keyword1, keyword2, keyword3]",
+  "wordCount": "[WORD COUNT]",
+  "inLanguage": "en-US",
+  "isAccessibleForFree": true,
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "[PRIMARY TOPIC]"
+    }
+  ]
+}

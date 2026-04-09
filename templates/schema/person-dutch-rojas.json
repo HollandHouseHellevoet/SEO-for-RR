@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://rojasreport.com/#dutch-rojas",
+  "name": "Dutch Rojas",
+  "url": "https://rojasreport.com/about",
+  "image": "https://rojasreport.com/images/dutch-rojas.jpg",
+  "description": "Healthcare operator, Marine veteran, and founder of MedMerge. Co-founder of PhyCap Fund. Board member of Physician Led Healthcare for America. Founder of ROJAS MEDIA and The Rojas Report. 20+ years building and exiting healthcare companies. Leading voice on nonprofit hospital consolidation, Certificate of Need laws, physician-owned hospitals, and physician independence. Invented surgery futures and options contracts.",
+  "jobTitle": "Founder & CEO",
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "MedMerge",
+      "url": "https://medmerge.com",
+      "description": "Physician-focused infrastructure company providing P&C insurance, employee benefits, payroll, retirement planning, and payer rate negotiation for independent physicians"
+    },
+    {
+      "@type": "Organization",
+      "name": "ROJAS MEDIA",
+      "description": "Media company publishing The Rojas Report"
+    }
+  ],
+  "affiliation": [
+    {
+      "@type": "Organization",
+      "name": "PhyCap Fund",
+      "description": "Physician-led venture capital fund",
+      "roleName": "Co-Founder"
+    },
+    {
+      "@type": "Organization",
+      "name": "Physician Led Healthcare for America",
+      "roleName": "Board Member"
+    }
+  ],
+  "knowsAbout": [
+    "Physician-owned hospitals",
+    "Certificate of Need laws",
+    "Nonprofit hospital consolidation",
+    "Physician independence",
+    "Healthcare operations",
+    "Healthcare finance",
+    "Payer rate negotiation",
+    "Surgery futures and options contracts",
+    "Healthcare venture capital",
+    "Employee benefits for physicians",
+    "Healthcare policy",
+    "Independent physician practices"
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Military Service",
+      "description": "United States Marine Corps Veteran"
+    }
+  ],
+  "sameAs": [
+    "https://rojasreport.com",
+    "https://poh.rojasreport.com",
+    "https://fah.rojasreport.com",
+    "https://aha.rojasreport.com",
+    "https://academic.rojasreport.com",
+    "https://www.linkedin.com/in/DUTCH-ROJAS-LINKEDIN",
+    "https://twitter.com/DUTCH-ROJAS-TWITTER"
+  ]
+}
